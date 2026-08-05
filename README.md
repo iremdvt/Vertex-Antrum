@@ -8,7 +8,8 @@
 * 🎥 **Demo Videosu (Loom/YouTube):** [(https://youtu.be/DLSSLCoz8os)] 
 * Animasyon Videosu (Youtube): [(https://youtu.be/HDiMiwWtfOo)]
 * 🌐 **Canlı Demo (Vercel):** [(https://vertex-antrum-8rvm.vercel.app/)]
-* 📁 **GitHub Repo:** [iremdvt/Vertex-Antrum]
+* 📁 **GitHub Repo:** [iremdvt/Vertex-Antrum](https://github.com/iremdvt/Vertex-Antrum)
+
 
 
 ---
